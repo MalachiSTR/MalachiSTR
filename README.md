@@ -1,16 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Malachi.</h1>
 <h3 align="center">A passionate newbie in the developing world.</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malachistr&show_icons=true&locale=en" alt="malachistr" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malachistr&label=Profile%20views&color=c13fca&style=flat" alt="malachistr" /> </p>
+**.** 🔭 I’m currently working on **Learning LUA, CSS, HTML**
 
-<p align="left"> <a href="https://twitter.com/strentsm" target="blank"><img src="https://img.shields.io/twitter/follow/strentsm?logo=twitter&style=for-the-badge" alt="strentsm" /></a> </p>
+**.** 💬 About Me **I started Learning LUA, CSS for game development really and it turned into something i do alot**
 
-- 🔭 I’m currently working on **Learning LUA, CSS, HTML**
-
-- 💬 About Me **I started Learning LUA, CSS for game development really and it turned into something i do alot**
-
-- 📫 How to reach me **Discord = Malachi#2634**
+**.** 📫 How to reach me **Discord = Malachi#2634**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
