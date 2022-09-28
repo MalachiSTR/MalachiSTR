@@ -1,2 +1,2 @@
-![](https://komarev.com/ghpvc/?username=MalachiSTR&color=dc143c)
+![](https://komarev.com/ghpvc/?username=MalachiSTR&color=blueviolet)
 
