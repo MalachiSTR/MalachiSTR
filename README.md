@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Malachi.</h1>
-<h3 align="center">A passionate newbie in the developing world.</h3>
+
 
 **.** 🔭 I’m currently working on **Learning LUA, CSS, HTML**
 
