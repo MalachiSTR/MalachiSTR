@@ -5,16 +5,10 @@
 - Discord **Owner** of **8BIT / MScripts**
 - Learning **HTML, LUA, CSS**
 - First Attempt At Using **GITHUB**
-----------------------------------------------
-**Social Media Links**
-----------------------------------------------
-Tebex > **SOON TO COME**
-github > https://github.com/MalachiSTR
-Discord > https://Discord.gg/w3PZPtDXZw
-Twitch > https://Twitch.tv/StrentsM
-----------------------------------------------
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/strentsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="strentsm" height="30" width="40" /></a>
-<a href="https://discord.gg/w3PZPtDXZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="w3PZPtDXZw" height="30" width="40" /></a>
-</p>
+# Social Media Links
+- Tebex > **COMING SOON**
+- Github > https://Github.com/MalachiSTR
+- Discord > https://Discord.gg/
+- Twitch > https://Twitch.tv/StrentsM
+# Discord Below (Click To Join)
+<img src="https://discordapp.com/api/guilds/1024749642765836338/widget.png?style=banner2" alt="Discord Banner 2"/>
