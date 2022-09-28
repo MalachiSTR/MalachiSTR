@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malachi</h1>
 <h3 align="center">A passionate newbie in the developing world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malachistr&label=Profile%20views&color=0e75b6&style=flat" alt="malachistr" /> </p>
+<p align="left"> <img src="https://clipground.com/images/png-coding-1.png" alt="malachistr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/strentsm" target="blank"><img src="https://img.shields.io/twitter/follow/strentsm?logo=twitter&style=for-the-badge" alt="strentsm" /></a> </p>
 
