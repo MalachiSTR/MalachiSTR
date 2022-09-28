@@ -1,6 +1,10 @@
-<p align="left"> <a href="https://twitter.com/strentsm" target="blank"><img src="https://img.shields.io/twitter/follow/strentsm?logo=twitter&style=for-the-badge" alt="strentsm" /></a> </p>
-
+**About Me**
+-----------------------------------------------
 - 📫 How to reach me **Discord = Malachi#2634**
+- I'm **18** from the **UK**
+- Discord **Owner** of **8BIT / MScripts**
+- Learning **HTML, LUA, CSS**
+- First Attempt At Using **GITHUB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
