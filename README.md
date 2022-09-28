@@ -5,8 +5,13 @@
 - Discord **Owner** of **8BIT / MScripts**
 - Learning **HTML, LUA, CSS**
 - First Attempt At Using **GITHUB**
-- 
+----------------------------------------------
 **Social Media Links**
+----------------------------------------------
+Tebex > **SOON TO COME**
+github > https://github.com/MalachiSTR
+Discord > https://Discord.gg/w3PZPtDXZw
+Twitch > https://Twitch.tv/StrentsM
 ----------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
