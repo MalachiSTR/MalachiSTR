@@ -5,7 +5,6 @@
 - Discord **Owner** of **8BIT / MScripts**
 - Learning **HTML, LUA, CSS**
 - First Attempt At Using **GITHUB**
------------------------------------------------
 **Social Media Links**
 ----------------------------------------------
 <h3 align="left">Connect with me:</h3>
