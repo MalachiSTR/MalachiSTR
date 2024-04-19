@@ -2,7 +2,6 @@
 -----------------------------------------------
 - 📫 How to reach me **Discord = Malachi#2634**
 - I'm **18** from the **UK**
-- Discord **Owner** of **8BIT / MScripts**
 - Learning **HTML, LUA, CSS**
 - First Attempt At Using **GITHUB**
 # Social Media Links
